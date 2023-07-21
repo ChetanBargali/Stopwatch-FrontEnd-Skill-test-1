@@ -19,6 +19,7 @@ window.onload=function(){
     let interval;
 
     // Select lap list
+    let lapsContainer = document.querySelector('#lapsContainer');
     let lapList = document.querySelector('#lap-list');
 
     // create empty array for storing lap times
