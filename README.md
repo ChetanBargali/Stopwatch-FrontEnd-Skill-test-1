@@ -9,4 +9,4 @@ Stop Button: Stop timer(pause) once clicked on the stop button.
 
 Reset Button: On click of reset stop the watch (if already started) and set timer as 0 and also reset lap container.
 
-Lap Button: on click the lap button lap container visible and in container lap time visible in list.
+Lap Button: on click the lap button lap container visible and in container lap time visible in list. You can take unlimited tiome laps you want.
