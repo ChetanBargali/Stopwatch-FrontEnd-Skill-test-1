@@ -1,5 +1,5 @@
 # Stopwatch project skill test 1 frontend Coding Ninjas
-### Hosted link: [Stop Watch](https://chetanbargali.github.io/Stopwatch.github.io/)
+### Hosted link: [Stop Watch](https://chetanbargali.github.io/Stopwatch-FrontEnd-Skill-test-1/)
 
 Features:
 Start Button: On click of start button, start the timer If timer is 0 start from beginning else start from wherever last stopped.
